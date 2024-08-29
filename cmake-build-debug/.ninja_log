@@ -1,0 +1,20 @@
+# ninja log v6
+7	467	7435146962673332	D:/ALLCODE/QTC++/project-st/cmake-build-debug/project_st_autogen/mocs_compilation.cpp	7383112bb98f37a7
+2	334	7441363466243619	build.ninja	bdda7e50efa56038
+48	155	7438365890139433	project_st_autogen/timestamp	643d28a6f2b64b67
+704	4451	7437875924350438	CMakeFiles/project_st.dir/Sources/mainwindows.cpp.obj	97ac706fa8ec0f99
+48	155	7438365890139433	project_st_autogen/mocs_compilation.cpp	643d28a6f2b64b67
+700	3991	7437875924307044	CMakeFiles/project_st.dir/Sources/main.cpp.obj	967223ba021faa48
+7	467	7435146962673332	D:/ALLCODE/QTC++/project-st/cmake-build-debug/project_st_autogen/timestamp	7383112bb98f37a7
+4451	5318	7437875961822426	project_st.exe	c87b626bcf6e7e71
+696	4029	7437875924264962	CMakeFiles/project_st.dir/project_st_autogen/mocs_compilation.cpp.obj	fca04d53dbbcae34
+48	155	7438365890139433	D:/ALLCODE/QTC++/text/project-st/cmake-build-debug/project_st_autogen/timestamp	643d28a6f2b64b67
+48	155	7438365890139433	D:/ALLCODE/QTC++/text/project-st/cmake-build-debug/project_st_autogen/mocs_compilation.cpp	643d28a6f2b64b67
+49	1148	7442676101975917	project_st_autogen/timestamp	643d28a6f2b64b67
+49	1148	7442676101975917	project_st_autogen/mocs_compilation.cpp	643d28a6f2b64b67
+49	1148	7442676101975917	D:/ALLCODE/QTC++/text/project-st/cmake-build-debug/project_st_autogen/timestamp	643d28a6f2b64b67
+49	1148	7442676101975917	D:/ALLCODE/QTC++/text/project-st/cmake-build-debug/project_st_autogen/mocs_compilation.cpp	643d28a6f2b64b67
+1149	7319	7442676103070828	CMakeFiles/project_st.dir/project_st_autogen/mocs_compilation.cpp.obj	fca04d53dbbcae34
+1153	7339	7442676103117624	CMakeFiles/project_st.dir/Sources/main.cpp.obj	967223ba021faa48
+1157	7999	7442676103161475	CMakeFiles/project_st.dir/Sources/mainwindows.cpp.obj	97ac706fa8ec0f99
+7999	8628	7442676171585872	project_st.exe	c87b626bcf6e7e71

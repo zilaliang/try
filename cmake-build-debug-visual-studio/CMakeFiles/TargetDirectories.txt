@@ -1,0 +1,5 @@
+D:/ALLCODE/QTC++/text/project-st/cmake-build-debug-visual-studio/CMakeFiles/project_st.dir
+D:/ALLCODE/QTC++/text/project-st/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/ALLCODE/QTC++/text/project-st/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
+D:/ALLCODE/QTC++/text/project-st/cmake-build-debug-visual-studio/CMakeFiles/project_st_autogen_timestamp_deps.dir
+D:/ALLCODE/QTC++/text/project-st/cmake-build-debug-visual-studio/CMakeFiles/project_st_autogen.dir

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "project_st",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "project_st::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_st-Debug-dffee725d279b97bc17e.json",
+					"name" : "project_st",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_st_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_st_autogen-Debug-f65cfacde95cc6e4ed52.json",
+					"name" : "project_st_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_st_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_st_autogen_timestamp_deps-Debug-cd37db817bbba6ba13cd.json",
+					"name" : "project_st_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ALLCODE/QTC++/text/project-st/cmake-build-debug-visual-studio",
+		"source" : "D:/ALLCODE/QTC++/text/project-st"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

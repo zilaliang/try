@@ -1,0 +1,5 @@
+D:/ALLCODE/QTC++/text/project-st/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/project_st.dir
+D:/ALLCODE/QTC++/text/project-st/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/ALLCODE/QTC++/text/project-st/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/ALLCODE/QTC++/text/project-st/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/project_st_autogen_timestamp_deps.dir
+D:/ALLCODE/QTC++/text/project-st/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/project_st_autogen.dir

@@ -1,0 +1,44 @@
+"D:\clion\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/clion/CLion 2024.1.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\ALLCODE\QTC++\text\project-st -B D:\ALLCODE\QTC++\text\project-st\cmake-build-debug
+-- The C compiler identification is MSVC 19.29.30154.0
+-- The CXX compiler identification is MSVC 19.29.30154.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at CMakeLists.txt:11 (find_package):
+  By not providing "FindQt6.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "Qt6", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "Qt6" with any of
+  the following names:
+
+    Qt6Config.cmake
+    qt6-config.cmake
+
+  Add the installation prefix of "Qt6" to CMAKE_PREFIX_PATH or set "Qt6_DIR"
+  to a directory containing one of the above files.  If "Qt6" provides a
+  separate development package or SDK, be sure it has been installed.
+
+
+-- Configuring incomplete, errors occurred!
+
+无法获取编译器信息:
+	编译器退出，错误代码 1: D:\clion\CLion 2024.1.4\bin\mingw\bin\g++.exe -xc++ -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -isystemD:/ALLCODE/QTC++/text/project-st/cmake-build-debug/project_st_autogen/include -isystemD:/qt/6.7.2/mingw_64/include/QtCore -isystemD:/qt/6.7.2/mingw_64/include -isystemD:/qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystemD:/qt/6.7.2/mingw_64/include/QtGui -isystemD:/qt/6.7.2/mingw_64/include/QtWidgets -g -std=gnu++23 -fpch-preprocess -v -dD -E
+	Using built-in specs.
+	COLLECT_GCC=D:\clion\CLion 2024.1.4\bin\mingw\bin\g++.exe
+	Target: x86_64-w64-mingw32
+	Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
+	Thread model: posix
+	Supported LTO compression algorithms: zlib
+	gcc version 13.1.0 (GCC) 
+	COLLECT_GCC_OPTIONS='-D' 'MINGW_HAS_SECURE_API=1' '-D' 'QT_CORE_LIB' '-D' 'QT_GUI_LIB' '-D' 'QT_WIDGETS_LIB' '-D' 'UNICODE' '-D' 'WIN32' '-D' 'WIN64' '-D' '_ENABLE_EXTENDED_ALIGNED_STORAGE' '-D' '_UNICODE' '-D' '_WIN64' '-isystem' 'D:/ALLCODE/QTC++/text/project-st/cmake-build-debug/project_st_autogen/include' '-isystem' 'D:/qt/6.7.2/mingw_64/include/QtCore' '-isystem' 'D:/qt/6.7.2/mingw_64/include' '-isystem' 'D:/qt/6.7.2/mingw_64/mkspecs/win32-g++' '-isystem' 'D:/qt/6.7.2/mingw_64/include/QtGui' '-isystem' 'D:/qt/6.7.2/mingw_64/include/QtWidgets' '-g' '-std=gnu++23' '-fpch-preprocess' '-v' '-dD' '-E' '-D' '___CIDR_DEFINITIONS_END' '-shared-libgcc' '-mtune=generic' '-march=nocona'
+	 D:/clion/CLion 2024.1.4/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -E -quiet -v -iprefix D:/clion/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT -D MINGW_HAS_SECURE_API=1 -D QT_CORE_LIB -D QT_GUI_LIB -D QT_WIDGETS_LIB -D UNICODE -D WIN32 -D WIN64 -D _ENABLE_EXTENDED_ALIGNED_STORAGE -D _UNICODE -D _WIN64 -D ___CIDR_DEFINITIONS_END -isystem D:/ALLCODE/QTC++/text/project-st/cmake-build-debug/project_st_autogen/include -isystem D:/qt/6.7.2/mingw_64/include/QtCore -isystem D:/qt/6.7.2/mingw_64/include -isystem D:/qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem D:/qt/6.7.2/mingw_64/include/QtGui -isystem D:/qt/6.7.2/mingw_64/include/QtWidgets C:\Users\Administrator\AppData\Local\Temp\compiler-file5452346283704742737 -mtune=generic -march=nocona -std=gnu++23 -fpch-preprocess -g -fworking-directory -dD -dumpbase compiler-file5452346283704742737
+	
+	
